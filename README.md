@@ -7,3 +7,5 @@ https://github.com/torvalds/linux
 https://gist.github.com/lisovy/80dde5a792e774a706a9
 
 Patched Makefile for AMD64
+
+Used on APU2
